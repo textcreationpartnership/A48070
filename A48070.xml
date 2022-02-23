@@ -1,0 +1,271 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from No Body in the city, to No Body in the countrey published at the importunity of No Body.</title>
+            <author>No body in the city.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1679</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A48070</idno>
+            <idno type="STC">Wing L1491</idno>
+            <idno type="STC">ESTC R3010</idno>
+            <idno type="EEBO-CITATION">12890130</idno>
+            <idno type="OCLC">ocm 12890130</idno>
+            <idno type="VID">95094</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A48070)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95094)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 718:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from No Body in the city, to No Body in the countrey published at the importunity of No Body.</title>
+                  <author>No body in the city.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Some-body,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1679.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end: London, March 6, 1678 [ie. 1679]. No-Body.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-02</date>
+            <label>SPi Global</label>Rekeyed and resubmitted</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95094:1" rendition="simple:additions"/>
+            <p>A LETTER <hi>FROM</hi> NO BODY In the <hi>CITY,</hi> TO NO BODY In the <hi>CO<g ref="char:V">Ʋ</g>NTREY.</hi>
+            </p>
+            <p>
+               <hi>Publiſhed at the Importunity of</hi> NO BODY.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for SOME-BODY, 1679.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:95094:2"/>
+            <pb n="1" facs="tcp:95094:2"/>
+            <opener>
+               <salute>Dear Brother,</salute>
+            </opener>
+            <p>IT hath been thought an old Blot in our Eſcutcheon, a Reproach to our Name and Family, that we
+are all not only averſe from good Offices, but do all the ill ones, all the miſchief done by
+others, who for Reaſons beſt known to themſelves, walk in an inviſible Cloak, and force one
+of us to own what<g ref="char:EOLhyphen"/>ever they are aſhamed to be ſeen in themſelves. They clip the Kings
+<hi>Engliſh,</hi> Truth<g ref="char:punc">▪</g> Coin moſt falſe Reports, and malicious Forgeries, write
+Seditious Pamphlets, affront Government, caſt Dirt upon Religion, mock God him<g ref="char:EOLhyphen"/>ſelf, Rob Men of
+their Goods, or their good Name, (the far greater Treaſure) and all this to gratifie and gull a
+many-headed Beaſt called the <hi>Vulgar,</hi> that is ever ready to be rid by, and believe them,
+(provided always, and be it further Enacted, that they don't ſay <hi>True</hi>) and then father
+all their Villanies upon us; for if you make equiry for the Author, and his Complices, the guilty
+wretches cry out with one Voice, <hi>No-Body</hi> did it. I ſhould be endleſs, and ſwell my
+Letter into a Volume, if I ſhould go about to enumerate all the wrongs they have done, do daily,
+and will ever do us to the end of the Chapter: for there is no manner of Harm or Roguery acted
+through<g ref="char:EOLhyphen"/>out the year, between <hi>Dover</hi> in <hi>Kent,</hi> and the Town of <hi>Berwick</hi>
+upon <hi>Twede</hi> (to go no farther) be it of the Firſt, Second, Third, or Thirtieth Rate, from
+Killing
+<pb n="2" facs="tcp:95094:3"/>a Man to cruſhing a Worm, from Firing a Town to
+Breaking a <hi>Venice</hi> Glaſs, or cracking a <hi>China</hi> Diſh,
+<gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> faulty
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it off from themſelves (if poſſible) and
+upon Inqueſt, <hi>No-Body</hi> is found Guilty: nay the World is come to that paſs of late that
+they are not content to ſlander, and lay all their own faults upon us, that are as innocent as
+the Child unborn, but they inſolently make Taunts and Proverbs of us into the Bargain; and when
+they have a mind to affright their Children, they cry <hi>No-Body</hi> comes, as if we were a kind
+of <hi>Gorgous,</hi> or Devils: and upon every turn they are ready to ſay, that which is
+<hi>Every-Bodies</hi> work, is <hi>No-Bodies</hi> work, though never ſo much againſt their own
+conſciences, never ſo palpable a contradiction; for themſelves know that that <hi>Family</hi>
+is no more Related to us, than we are to the Pope of <hi>Rome.</hi> I muſt confeſs there was
+once a ſober Moral of that ſaying, before they abuſed and wreſted it to ill works, when it
+was intended for good only<g ref="char:punc">▪</g> for to our Honour and their Shame it was ſpoke at firſt, to
+ſignifie that <hi>No-Body</hi> did that good which <hi>Every-Body</hi> joyntly or Severally were
+obliged to do, but did it not. But waving all leſſer inſtances of their injurious Malice, my
+chief Buſineſs at preſent is to give you to underſtand, that they boggle not now to charge
+us with the higheſt Crimes imaginable, no leſs than <hi>Murder</hi> in cold Blood, and unheard
+of <hi>Treaſon.</hi> You can't be ignorant, for all <hi>Europe</hi> rings of the Bloody death,
+and real Tragedie of that Loyal Knight St. <hi>E. G.</hi> ſuch a frightful ſpectacle that the
+Son was aſhamed to behold, (for he put on his Sabios and Sackeloth here not long after;) no, nor
+of that he<gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> Plot, and accurſed Conſpiracy
+againſt the Perſon and Government of His Majeſty of Great <hi>Britain,</hi> con<g ref="char:EOLhyphen"/>trived, no
+doubt, by the two Old Enemies of Monarchy and Mankind. And yet the impudent Actors would fain lay
+<pb n="3" facs="tcp:95094:3"/>them both at our door; for being brought up by a
+lying Catechiſme, they make not one true anſwer, but deny the whole fact to their laſt
+Breath, being trapan'd into a belief they are <hi>Abſolved</hi> in Heaven, for <hi>Damning</hi>
+themſelves ſolemnly upon Earth. And all this holy cheat is out of ſpight to us, to make the
+Credulous World think that <hi>No-Body</hi> was in the Murder, and <hi>No-Body</hi> in the Plot.
+Now I appeal to <hi>Caeſar,</hi> and all his loyal Subjects, whether Honeſt Men or Knaves, the
+Innocent or the Guilty ought to be ſooner credited? whether his Holineſs himſelf ſhould be
+believed when he tels them any thing they know to be falſe, or Impoſſible? let them ſearch
+all the Annals and Chronicles that ever were ex<g ref="char:EOLhyphen"/>tant, from the firſt year of the Reign of
+<hi>Adam,</hi> the firſt of Monarchs, to this very day, and if they can produce one ſingle
+inſtance that <hi>No-Body</hi> was over Accuſed, Arraigned, Condemned, and Executed according
+to Law for Killing a <hi>Man:</hi> or that any of our Blood was ever tainted, and impeached of high
+Treaſon againſt ſo much as a King of <hi>Faeiries,</hi> I will give them this and all the
+Cauſes in <hi>Weſtminſter-Hall,</hi> and be their Bondman for ever. Whereas they all know, if
+they would ſpeak out, that theſe have been the conſtant practices of <hi>Some-Body</hi> of
+the Race of <hi>Cain</hi> and his ſucceſſers down to <hi>Sixtus Quintus,</hi> &amp;c. 'Twas
+<hi>Some-Body</hi> in <hi>Jury</hi> that Crucified King <hi>JES<g ref="char:V">Ʋ</g>S: Some-Body</hi> in
+<hi>England</hi> that Murderd King <hi>Charles</hi> the Firſt; and though there was this
+difference between them; that the former owned no King but <hi>Caeſar</hi> (looking upon this
+Pretender as one of another World) whereas the latter fall foul upon <hi>Caeſer</hi> himſelf,
+(it happening then to be an extraordinary Leap-year, which ſets Subjects above their Prince;) yet
+they both agreed in this Third: Both con<g ref="char:EOLhyphen"/>fes'd the Fact, Both denied the fault. Theſe were
+modeſt in compariſon to the preſent Tribe of <hi>Aequivocators,</hi>
+               <pb n="4" facs="tcp:95094:4"/>who make nothing to diſown and abjure both Fault
+and Fact in the ſame unhallowed breath, in ſpight of all that clear evidence depoſed
+againſt them by <hi>Some-Body</hi> of their own Gang; but let them gorge themſelves with never
+ſo many Oaths of Secreſie, let them bind up their abominable Lies never ſo cloſe with
+Sacramental Cords, truth is great and generous, prevailing and inrreſiſtable; it will be hid no
+longer, but like the Morning Sun, ſearch into the darkeſt corners and caverns, and bring the
+moſt abſtruſe Forgeries and deep-laid Villanies to Light. Murder will out at laſt; the
+innocent Ghoſt ſometimes appears to tell it, when they guilty Tongue will not diſcover it, a
+Sacred Padlock being hung upon it, call'd the <hi>Seal</hi> of <hi>Confeſſion:</hi> Treaſons
+kept never ſo private, though under as many Locks and Keys as <hi>Some-Body</hi> wears Crowns,
+ſhall break out by force, and diſcloſe themſelves, be the Contrivers never ſo great and
+powerful; be the <hi>Roman Eagle</hi> it ſelf in the Plot, neither Fear nor Favour can prevent or
+hinder ſome little <hi>Bird of the air</hi> from telling the matter, let all the arts and tricks
+be uſed which that ſhop of miſchief, the Myſtery of <hi>Jeſuitiſm</hi> ever forged; let
+them raiſe a duſt of falſe bruits to put out Mens Eyes, that they may not diſcern one truth
+in ſuch a crowd, yet the attempt will be vain and fooliſh at the long run, matter of fact will
+not be ſmothered or conceal'd for ever. Nor; Men grow weary now of being deceiv'd and abuſed:
+they begin at length to believe their own Eyes, and though the <hi>Sorbon</hi> Doctors, the whole
+College of <hi>Jeſuits,</hi> and Conclave of Pope and Cardinals to boot, ſhould give the
+contrary under their reſpective Hands and Seals, yet they cannot perſuade us here now, but
+<hi>Some-Body</hi> has been convicted, and as fairly tuck'd up for Murdering the Knight
+aforeſaid; and <hi>Some Body</hi> has already (for de<g ref="char:EOLhyphen"/>ſigning to Aſſaſſinate
+<hi>Charles</hi> the Second, and ſell his King<g ref="char:EOLhyphen"/>doms
+<pb n="5" facs="tcp:95094:4"/>and Subjects to utmoſt Vaſſallage) been
+Drawn, Hang'd and Quarter'd, without any manner of Aequi<g ref="char:EOLhyphen"/>vocation, or mental reſervation
+whatſoever; (on <hi>Ketch</hi> his part at leaſt;) and <hi>Some-Body</hi> elſe is ſtill in
+<hi>Limbo</hi> for the ſame Conſpiracy, and may ere long be brought to ask their 12 Godfathers
+Bleſſing; the old fatal Tree being of late grown young again, and likely to bear more ſuch
+fruit, ſuch ſpecial Pippins in due Seaſon. When that comes to paſs the Pope ſhall know
+it; mean while he may be preparing his trinkets for more Canonization-work; for they ſay he
+pretends to an infinite power above other mortals: he can make Holy Idols of every contemptible
+chip of the Old-Block, and confer the order of Sainthood upon the verieſt Rogue that lives and
+dies ſo. I'm ſure his Saints are a troubleſom kind to Cattel to us: and if he keep them not
+at home for the future, or teach them better <hi>Doctrines,</hi> and <hi>Morals,</hi> he and they
+muſt expect what follows: mean while it is worth your Note, that he hath no power to make new
+Saints in our Kings Dominions, and transfer them into his Bloody Calendar, without <hi>Ketch</hi>
+his aſſiſtance at the Ceremony. I ſay, the Lord of the Triple Crown, with all his
+omnipotence, can do no more than an ordinary Man in this matter, till the Knight of the Triple
+Tree, hath prepared and cut out his work for him. But of all things elſe I can't forbear
+obſerving to you, that this univerſal grand Uſur<g ref="char:EOLhyphen"/>per is not content to Lord it over Kings,
+and Emperours, as if they were but his Tenants at will, and depoſe their Perſons, and
+diſpoſe of their Crowns, as his conſecrated Spectacles ſee occaſion, but he muſt needs
+encroach upon, and invade our higheſt Privileges and very Birthright, and aſſume to himſelf
+what belongs of right only to us, <hi>viz.</hi> an Exemption from all errours incident to humane
+nature; for let the School men and <hi>Ignatian</hi> Sophiſters,
+<pb n="6" facs="tcp:95094:5"/>wrangle till Dooms-day to the contrary, Men in
+their wits cannot believe but Turk, and Pope, may and do err every day, whilſt (only)
+<hi>No-Body</hi> is <hi>Infallible.</hi>
+            </p>
+            <p>Thus much I thought fit to write to you, concerning that ſame <hi>Gray Beard</hi> and his
+followers, partly for my own diverſion, partly for our common Juſtification in matters of
+ſuch moment; but chiefly becauſe it is now a very critical hour; for the King hath this day
+ſummon'd a new Parliament to adviſe with againſt that Old Enemy: and if they do not ſecure
+King and Kingdom againſt him; if they do not lay aſide all odious names of Diſtinction, and
+joyn as one Man, to ſettle Church and State, out Law and Goſpel, our Lives and Liberties, our
+preſent and future Peace; if they do not ſound the botom of that accurſed Plot, encourage
+honeſt Loyal Subjects, and make all Traitors and Murderers, publick Examples, <hi>Some-Body</hi>
+muſt certainly be in the fault, though I name</p>
+            <closer>
+               <dateline>LONDON,
+<date>
+                     <hi>March,</hi> 6. 1678.</date>
+               </dateline>
+               <signed>NO-BODY.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
